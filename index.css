@@ -1,0 +1,20 @@
+.nav{
+    background-color: #333;
+    overflow: hidden;
+    
+}
+.nav h1{
+    float: left;
+    padding: 14px 20px;
+    color: white;
+}
+div{
+    padding: 20px;
+    background-color: rosybrown;
+}
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
